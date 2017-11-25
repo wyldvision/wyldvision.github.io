@@ -1,0 +1,4 @@
+# wyldvision.github.io
+
+This website provides a method for operating a free, open source program (PocketIFS) that creates a 3D virtual machine for anyone to use to create virtual or tangible algrorithmic organisms. Sadly, I am unfamiliar with the inner workings of GitHub. I am attempting to upload a book I created in 2015 called Algorithmic Biomimicry 2015 to SingularityNet.io via GitHub. My ultimate goal with this project is to provide useful information to the public and to the general pool of artificial general intelligence to make use of as they see fit. My hope is that this transference of my intellectual property, the result of over a decade of intense research and development, will provide me with enough AGI tokens to allow for this request: Please make the freeware, open-source program PocketIFS interoperable with all computational platforms so that its usefulness can be made apparent to both human and machine intelligence.
+
